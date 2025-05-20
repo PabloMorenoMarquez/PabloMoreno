@@ -40,7 +40,7 @@ public class PlataformaEducativa {
 			cursos.get(username).add(curso);
 			System.out.println("Usuario inscrito en el curso.");
 		} else {
-			System.out.println("Error al inscribir al usuario.");
+			System.out.println("Error.");
 		}
 	}
 
